@@ -64,7 +64,7 @@ Regenerative approaches to organizational change
 
 I’m always interested in conversations about responsible AI, knowledge systems design, and how we can use technology to create more thoughtful, connected communities.
 
-**Find me**: [My Writing](cognitive-architecture.ca)
+**Find me**: [My Writing](https://cognitive-architecture.ca)
 
 -----
 
