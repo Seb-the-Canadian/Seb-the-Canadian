@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im Seb!
+I'm Seb!
 
 I work at the intersection of data strategy, AI enablement, and organizational systems thinking. Currently building sustainable approaches to AI adoption while exploring how we can use technology to create more thoughtful, connected communities.
 
