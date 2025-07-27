@@ -32,10 +32,12 @@ I work at the intersection of data strategy, AI enablement, and organizational s
 - Parenting with intention in a complex world
 - How ancient wisdom traditions inform modern technological choices
 - Responsible technology adoption and human-AI collaboration
+- 
 
 ## Recent Explorations
 
 - **Knowledge Systems Design**: Creating comprehensive frameworks for personal and organizational learning
+- **Relational Reason Design**: How we can structure systems of knowledge to honour complexity, divergent perspectives, tension, and ambiguity.
 - **Cross-Disciplinary Integration**: Applying insights from disparate fields to technical project management and decision-making
 - **Organizational Cognition**: How groups think, learn, and make decisions in complex environments
 - **Sustainable Change Leadership**: Moving beyond quick fixes to create lasting systemic improvements
@@ -46,6 +48,7 @@ I believe technology should amplify human capacity for wisdom, connection, and f
 
 - **Systems thinking** over isolated solutions
 - **Ethical reflection** alongside technical implementation
+- **Knowledge** as a _means_ not an _end_.
 - **Community knowledge** over individual expertise
 - **Sustainable practices** over optimization for its own sake
 - **Authentic voice** in human-AI collaboration
