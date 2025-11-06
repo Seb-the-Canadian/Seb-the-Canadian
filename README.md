@@ -6,7 +6,7 @@ I work at the intersection of data strategy, AI enablement, and organizational s
 
 ## What I’m Working On
 
-Building **cognitive-architecture.ca**
+Building **cognitivearchitecture.ca**
 My digital garden + space for building, exploring, and thinking about knowledge, work, philosophy, systems building, and being a human - in the shadow of the AI era. I believe that we need to uncover and construct ways to preserve human wisdom, community, culture, and knowledge that are amplified by AI; not replaced by it.
 
 **AI Partnership & Integration**
@@ -70,7 +70,7 @@ Regenerative approaches to organizational change
 
 I’m always interested in conversations about responsible AI, knowledge systems design, and how we can use technology to create more thoughtful, connected communities.
 
-**Find me**: [My Writing](https://cognitive-architecture.ca)
+**Find me**: [My Writing](https://cognitivearchitecture.ca)
 
 -----
 
