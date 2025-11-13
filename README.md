@@ -35,7 +35,6 @@ My digital garden + space for building, exploring, and thinking about knowledge,
 - Parenting with intention in a complex world
 - How ancient wisdom traditions inform modern technological choices
 - Responsible technology adoption and human-AI collaboration
-- 
 
 ## Recent Explorations
 
